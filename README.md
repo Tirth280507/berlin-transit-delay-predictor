@@ -11,7 +11,7 @@ based on route, day of week, and hour — trained on real-time delay data I
 collected myself, since no public dataset of actual (vs. scheduled) transit
 times exists for free.
 
-### 🔗 [**Try the live app →**](add-your-streamlit-link-here)
+### 🔗 [**Try the live app →**] https://transit-delay-predictor-kgkpsvm22e9ktruf7ultc5.streamlit.app/ 
 
 <!-- Add a screenshot here once you have one:
 ![App screenshot](path/to/screenshot.png)
